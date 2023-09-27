@@ -37,7 +37,7 @@ const Read = () => {
 
   useEffect(() => {
     callGetApi();
-  }, [])
+  }, [updateUser])
 
   
   return (
