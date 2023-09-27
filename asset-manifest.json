@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sencholatask9/static/css/main.4b4e50e8.css",
+    "main.js": "/sencholatask9/static/js/main.8f0bee94.js",
+    "static/js/787.52105f91.chunk.js": "/sencholatask9/static/js/787.52105f91.chunk.js",
+    "index.html": "/sencholatask9/index.html",
+    "main.4b4e50e8.css.map": "/sencholatask9/static/css/main.4b4e50e8.css.map",
+    "main.8f0bee94.js.map": "/sencholatask9/static/js/main.8f0bee94.js.map",
+    "787.52105f91.chunk.js.map": "/sencholatask9/static/js/787.52105f91.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b4e50e8.css",
+    "static/js/main.8f0bee94.js"
+  ]
+}
