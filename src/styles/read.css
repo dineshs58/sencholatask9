@@ -1,0 +1,12 @@
+
+.read{
+    display: flex;
+    justify-content: center;
+    
+}
+.table
+{
+    display: table !important;
+    margin-top: 3vw ;
+    width:80% !important;
+}

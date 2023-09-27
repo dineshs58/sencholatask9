@@ -1,0 +1,11 @@
+.navbar-brand, .nav-link
+{
+    color:white !important;
+}
+.nav-link:hover{
+    color:red !important;
+}
+.toggle
+{
+    background-color: white !important;
+}

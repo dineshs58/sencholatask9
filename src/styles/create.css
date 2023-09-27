@@ -1,0 +1,56 @@
+.create
+{
+    display: flex;
+    justify-content: center;
+    height: 80vh;
+}
+.form
+{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 3vw;
+    background-color: antiquewhite;
+    height: 500px;
+    
+    
+}
+.form h1
+{
+    margin-top: 10%;
+}
+.form .field
+{
+    margin-top: 10px;
+    display: flex;
+    
+    flex-direction: column;
+}
+.field .input
+{
+    width:250px;
+}
+.button
+{
+    background-color: aqua;
+    outline: none;
+    border: none;
+}
+.button:hover
+{
+    background-color: rgb(255, 81, 0);
+    outline: none;
+    border: none;
+}
+@media only screen and (min-width: 600px)
+{
+    .form{
+        width: 500px;
+    }
+}
+@media only screen and (max-width: 600px)
+{
+    .form{
+        width: 80%;
+    }
+}
